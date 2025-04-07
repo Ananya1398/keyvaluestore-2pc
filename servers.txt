@@ -1,0 +1,6 @@
+Coordinator running on port: 4999
+ServerReplica-1 running on port: 5000
+ServerReplica-2 running on port: 5001
+ServerReplica-3 running on port: 5002
+ServerReplica-4 running on port: 5003
+ServerReplica-5 running on port: 5004
